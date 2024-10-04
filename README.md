@@ -30,7 +30,7 @@ Mis on Maal kõige kõvem looduslik aine?
 Valikud: Raud, Teemant, Kuld, Hõbe
 
 Milline organ pumpab verd läbi keha?
-Valikud: Brain, Heart, Lungs, Kidney
+Valikud: Aju, Süda, Kops, Neer
 
 Mis on Maa suurim ookean?
-Valikud: Atlantic, Indian, Pacific, Arctic
+Valikud: Atlandi, India, Vaikne, Jäämeri
