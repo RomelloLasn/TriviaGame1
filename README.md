@@ -1,7 +1,7 @@
 
 # Trivia Mäng
 
-Meie teemaks on siis mälumäng. Mängul väga erinevaid küsimusi, eri valdkondadest.
+Meie teemaks on siis mälumäng. Mängul on väga erinevaid küsimusi, eri valdkondadest.
 
 
 Küsimused selles mälumängus katavad järgmisi üldteadmiste valdkondi:
