@@ -118,12 +118,11 @@ function showScoreboard() {
     document.getElementById('finalScores').innerHTML = scoreDisplay;
 }
 
-function restartGame() {
-    document.getElementById('scoreboard').classList.add('hidden');
-    document.getElementById('playerSetup').classList.remove('hidden');
+function restartGame() { //Restardib mängu
+    document.getElementById('scoreboard').classList.add('hidden'); //Peidab scoreboardi
+    document.getElementById('playerSetup').classList.remove('hidden'); //Kuvab ette mängu alguse
     displayPlayerNameInputs();
 }
-
 function shuffleQuestions() {
-    return questions.sort(() => Math.random() - 0.5);
+    return questions.sort(() => Math.random() - 0.5); //Ajab küsimuste järjekorra segamini
 }
