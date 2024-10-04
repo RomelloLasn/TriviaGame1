@@ -34,7 +34,7 @@ function displayPlayerNameInputs() {
 // Teeb mängijate nimede jaoks kastid
     for (let i = 2; i <= count; i++) {
         playerNamesDiv.innerHTML += `
-            <label class="block text-xl">Player ${i} Name:</label>n 
+            <label class="block text-xl">Player ${i} Name:</label> 
             <input type="text" id="playerName${i}" class="border-2 rounded p-2 text-black w-full max-w-xs mx-auto mb-4" placeholder="Enter Player ${i} Name">
         `;
     }
@@ -45,7 +45,7 @@ function startGame() { // Kuvab mitu mängijat mängib ja kuvab nende nimed
     players = [];
     playerNames = [];
 
-    // Collect player names
+    // kogub kasutajate nimed
     for (let i = 1; i <= playerCount; i++) {
         const playerName = document.getElementById(`playerName${i}`).value || `Player ${i}`;
         playerNames.push(playerName);
