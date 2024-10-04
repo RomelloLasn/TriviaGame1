@@ -1,7 +1,7 @@
 
 # Trivia Mäng
 Ülevaade
-Eesti Ajaloo ja Kultuuri Trivia Mäng on veebipõhine mäng, mis pakub väljakutseid erinevates teemades, mis hõlmavad Eesti ajalugu, geograafiat, kultuuri, sporti, teadust ja haridust, ühiskonda, poliitikat ning loodust. Mäng on loodud nii üksikmängijatele kui ka mitmikmängijatele, võimaldades lõbusat ja harivat viisi Eesti kohta teadmiste omandamiseks.
+Eesti Ajaloo ja Kultuuri Trivia Mäng on veebipõhine mäng, mis pakub väljakutseid erinevates teemades, mis hõlmavad ajalugu, geograafiat, kultuuri, sporti, teadust ja haridust, ühiskonda, poliitikat ning loodust. Mäng on loodud nii üksikmängijatele kui ka mitmikmängijatele, võimaldades lõbusat ja harivat viisi uute teadmiste omandamiseks.
 
 Mängu Kategooriad
 1. Ajalugu
