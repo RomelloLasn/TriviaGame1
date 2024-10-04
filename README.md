@@ -3,7 +3,9 @@
 
 Meie teemaks on siis mälumäng. Mängul väga erinevaid küsimusi, eri valdkondadest.
 
+
 Küsimused selles mälumängus katavad järgmisi üldteadmiste valdkondi:
+
 
 Mis on Prantsusmaa pealinn?
 Valikud: Pariis, London, Berliin, Madrid
